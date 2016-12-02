@@ -4,3 +4,4 @@
 
 # mvn test
 
+# mvn surefire-report:report
