@@ -5,3 +5,7 @@
 # mvn test
 
 # mvn surefire-report:report
+
+# mvn - o <comando> -> execução offline, sem verificar atualização
+
+
