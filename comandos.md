@@ -8,4 +8,6 @@
 
 # mvn - o <comando> -> execução offline, sem verificar atualização
 
+# mvn versions:display-dependency-updates
+
 
